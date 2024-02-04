@@ -9,6 +9,6 @@ wikipedia
 wordcloud
 statistics
 statsmodels
-sklearn
+scikit-learn
 missingno
 textblob
